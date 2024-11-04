@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+.navbar {
+    background-color: #ff4500;
+}
+.sidebar {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    height: 100vh;
+}
+.sidebar a {
+    color: #ff4500;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+.sidebar a:hover {
+    background-color: #ff6347;
+    color: #fff;
+}
+.content {
+    margin-left: 220px;
+    padding: 20px;
+}
+
